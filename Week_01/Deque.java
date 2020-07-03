@@ -1,5 +1,3 @@
-// stack LIFO
-
 Deque<String> deque = new LinkedList<String>();
 deque.addFirst('a'); // deque.push('a');
 deque.addFirst('b');
