@@ -28,3 +28,13 @@ public void recur(int level, int param) {
 最优性剪枝，又称为上下界剪枝，是一种重要的搜索剪枝策略。它记录当前得到的最优值，如果当前结点已经无法产生比当前最优解更优的解时，可以提前回溯。
 http://poj.org/problem?id=3900
 
+算法题
+[lowest-common-ancestor-of-a-binary-tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
+[combinations](https://leetcode-cn.com/problems/combinations/)
+[permutations](https://leetcode-cn.com/problems/permutations/)
+[permutations-ii](https://leetcode-cn.com/problems/permutations-ii/)
+[majority-element](https://leetcode-cn.com/problems/majority-element/description/)
+[letter-combinations-of-a-phone-number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
+[n-queens](https://leetcode-cn.com/problems/n-queens/)
+
